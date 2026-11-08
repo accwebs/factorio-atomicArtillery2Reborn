@@ -1,3 +1,4 @@
+(Original license for SirDoombox's original mod and Kommade's fork)
 
 # The MIT License (MIT)
 
