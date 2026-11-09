@@ -4,4 +4,4 @@ Date: 2026-11-08
   Info:
     - Initial mod release.
     - Forked from kommade's Atomic Artillery 2 version 0.3.0.
-    - Bits also from SergiX44's Atomic Artillery Reborn version 2.0.0.
+    - Bits also from SergiX44's Atomic Artillery Reborn version 2.0.0 (not added in yet, though).
