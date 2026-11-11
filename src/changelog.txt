@@ -1,12 +1,23 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.0.2
-Date: 2026-11-08
-  Info:
-    - TBD
+Version: 0.1.0
+Date: 2026-11-10
+  Features:
+    - Merged in bits from SergiX44's Atomic Artillery Reborn that I want to keep.
+    - Added the Atomic Artillery research from SergiX44's Atomic Artillery Reborn. It requires atomic bomb, artillery and space science pack research.
+  Balancing:
+    - The explosion now copies the vanilla atomic rocket's effect when the game loads, from Atomic Artillery Reborn, so it follows vanilla changes.
+    - The extra fire blast now does 2000 damage, up from 1500.
+    - Atomic artillery shells weigh 300 kg, so 3 fit in a rocket. Yes, a vanilla atomic bomb is too heavy for a rocket. No, that isn't sensible, thus I ignore that. The one bad call by Factorio devs, ever ;-)
+  Graphics:
+    - 64x64 item icon from Atomic Artillery Reborn.
+  Sounds:
+    - Added the vanilla heavy artillery shell pickup, drop and move sounds.
+  Locale:
+    - Added Russian text for the research.
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.1
 Date: 2026-11-08
   Info:
     - Initial mod release.
-    - Forked from kommade's Atomic Artillery 2 version 0.3.0.
+    - Forked from Kommade's Atomic Artillery 2 version 0.3.0.
     - Bits also from SergiX44's Atomic Artillery Reborn version 2.0.0 (not added in yet, though).
