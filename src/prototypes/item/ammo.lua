@@ -1,8 +1,8 @@
 data:extend(
 {
 	{
-        type = "ammo",
-        ammo_category = "artillery-shell",
+		type = "ammo",
+		ammo_category = "artillery-shell",
 		name = "atomic-artillery-shell",
 		icon = "__AtomicArtillery2Reborn__/graphics/icons/atomic-artillery-shell.png",
 		icon_size = 32,
